@@ -28,9 +28,9 @@ Here is 4 steps of design thinking
 
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/3f2cc6ec-83fd-47d0-b760-38dadc1d6e15" />
 
-<img width="783" height="502" alt="image" src="https://github.com/user-attachments/assets/0a0f6830-4374-4cb6-bcc7-05ab690893ad" />
+<img width="1509" height="1042" alt="image" src="https://github.com/user-attachments/assets/c8f416cd-a727-4ef0-96e9-062381bc29c0" />
 
-<img width="337" height="477" alt="image" src="https://github.com/user-attachments/assets/f115115c-de12-48b2-91a9-44c41e8c5999" />
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/baec6338-036f-4be9-940f-3fa9535d998a" />
 
 ### Step 2: Define
 
