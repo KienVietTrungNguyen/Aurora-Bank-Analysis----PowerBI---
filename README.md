@@ -26,7 +26,7 @@ Here is 4 steps of design thinking
 
 ### Step 1: Empathize
 
-<img width="1277" height="453" alt="image" src="https://github.com/user-attachments/assets/78e87b1f-e149-49eb-9d3d-ece44b808a8f" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/3f2cc6ec-83fd-47d0-b760-38dadc1d6e15" />
 
 <img width="783" height="502" alt="image" src="https://github.com/user-attachments/assets/0a0f6830-4374-4cb6-bcc7-05ab690893ad" />
 
