@@ -34,17 +34,17 @@ Here is 4 steps of design thinking
 
 ### Step 2: Define
 
-<img width="587" height="512" alt="image" src="https://github.com/user-attachments/assets/6915418a-0bd4-40d8-9eff-e4dc62933329" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/30ab74d7-f5fc-4f21-851d-2317eeb44d39" />
 
-<img width="578" height="477" alt="image" src="https://github.com/user-attachments/assets/df38370a-70a4-406b-a815-90fbf4224ed9" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/13eeaaca-2fa9-4e06-88df-e42907905c47" />
 
-<img width="785" height="472" alt="image" src="https://github.com/user-attachments/assets/a73a7e8d-90d0-4d0b-a403-01483b27d4d7" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aa51bf3a-efe7-4725-b323-98193e4ef2ff" />
 
 ### Step 3: Ideate
 
-<img width="627" height="670" alt="image" src="https://github.com/user-attachments/assets/3c08680e-978a-4454-8556-2d52400c2636" />
+<img width="1173" height="1341" alt="image" src="https://github.com/user-attachments/assets/6bee9135-5e5b-492f-b4f9-b06a1b41840a" />
 
-<img width="937" height="638" alt="image" src="https://github.com/user-attachments/assets/2f5b7bbe-4084-415b-a92b-200432adbc7a" />
+<img width="1394" height="1128" alt="image" src="https://github.com/user-attachments/assets/7f4f683f-e499-410a-8a0c-3277de69fb74" />
 
 ### Step 4: Prototype and Review
 
