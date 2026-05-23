@@ -94,26 +94,24 @@ Here is 4 steps of design thinking
 
 
 ## V. Recommend
-### 📌 Transaction Growth
-- Increase transaction frequency through cashback campaigns and digital payment incentives.
-- Improve online transaction infrastructure to reduce rising system error rates.
 
-### 📌 Customer Segmentation
-- Prioritize customers aged 35–55 as the primary revenue-generating segment.
-- Develop financial education programs for younger customers with high utilization behavior.
+- Increase transaction value through cashback campaigns, loyalty programs, and personalized offers.
 
-### 📌 Credit Risk Management
-- Closely monitor customers with high DTI and high credit utilization ratios.
-- Build early-warning systems for abnormal money-transfer and utility-payment activities.
-- Strengthen monitoring for middle-income customers due to elevated bad debt risk.
+- Improve customer retention by targeting inactive users and strengthening mobile banking experience.
 
-###📌 Card Portfolio Optimization
-- Reduce inactive card exposure by reviewing unused credit limits.
-- Increase customer engagement to position Aurora Bank as the primary card provider.
+- Closely monitor customers with high Debt-to-Income (DTI) and credit utilization ratios to reduce default risk.
 
-### 📌 Operational Improvement
-- Optimize system performance during peak transaction hours.
-- Encourage chip/contactless transactions due to lower operational error rates.
+- Build early-warning systems to detect abnormal transaction behaviors and potential financial distress.
+
+- Optimize card portfolio performance by reducing inactive card exposure and encouraging active card usage.
+
+- Improve online transaction infrastructure to reduce system error rates and enhance payment reliability.
+
+- Focus on high-value customer segments (age 35–55) while developing financial education programs for younger high-risk customers.
+
+- Expand chip/contactless payment adoption due to lower operational error rates and higher transaction security.
+
+- Apply customer segmentation and behavioral analytics to improve cross-selling and personalized banking strategies.
 
 
 
