@@ -40,19 +40,6 @@ Here is 4 steps of design thinking
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aa51bf3a-efe7-4725-b323-98193e4ef2ff" />
 
-### Step 3: Ideate
-
-<img width="1173" height="1341" alt="image" src="https://github.com/user-attachments/assets/6bee9135-5e5b-492f-b4f9-b06a1b41840a" />
-
-<img width="1394" height="1128" alt="image" src="https://github.com/user-attachments/assets/7f4f683f-e499-410a-8a0c-3277de69fb74" />
-
-### Step 4: Prototype and Review
-
-- Choose the type of chart suitable for the questions
-- Presentation, layout of each part of the report(size, chart arrangement...)
-- Choose the color of the report
-- Self-review and edit my report
-
 ## III. Visualization
 
 ### Overview
