@@ -59,98 +59,74 @@ Here is 4 steps of design thinking
 
 <img width="1270" height="730" alt="image" src="https://github.com/user-attachments/assets/ec91cbf0-b799-43d7-9185-2ed55b91bd5e" />
 
+### 📌 Key Insights
+- Female customers contribute slightly more transaction value than male customers.
+- Customers aged 35–55 represent the most valuable customer segment with stable spending behavior.
+- Customers under 25 show high credit utilization despite lower income levels, indicating potential future credit risk.
+- Middle-income customers ($30K–$60K) show the highest bad debt ratio.
+- Medium-risk and high-risk customer groups account for a significant portion of the portfolio.
+
 ### Transaction Analysis
 
 <img width="1263" height="712" alt="image" src="https://github.com/user-attachments/assets/d755393c-3ee7-4421-b86d-bb0cd9ae0d43" />
+
+### 📌 Key Insights
+- Total transaction amount increased approximately **54% YoY**, mainly driven by higher transaction frequency.
+- Peak transaction periods occur between:
+  - **9:00–14:00**
+  - **19:00–22:00**
+- Grocery stores, utilities, and money-transfer services dominate transaction activities.
+- Chip transactions maintain the lowest system error rates compared to online and swipe transactions.
+- Online transaction error rates increased over time.
 
 ### Risk Analysis
 
 <img width="1258" height="726" alt="image" src="https://github.com/user-attachments/assets/18c4a795-9f4a-447a-932a-57c5f124eec1" />
 
+### 📌 Key Insights
+- High-risk transactions continue increasing over time, indicating worsening portfolio quality.
+- Customers aged **25–34** have the highest Debt-to-Income (DTI) ratio and higher default risk.
+- Debt-to-Income ratio and Credit Utilization are the strongest indicators of financial risk.
+- Utility and money-transfer transactions may signal early financial distress behavior.
+- High-risk activities are concentrated in utilities, telecommunications, and money-transfer merchants.
+
 ### Card Analysis
 
 <img width="1270" height="713" alt="image" src="https://github.com/user-attachments/assets/3782ff88-3fd3-4ab7-af18-80f9f8d3c376" />
 
-### Card Analysis
+### 📌 Key Insights
+- Mastercard and Visa dominate transaction volume, reflecting a mass-market customer base.
+- Many customers hold multiple cards but generate relatively low spending levels.
+- Card issuance exceeds actual usage, increasing inactive credit exposure risk.
+- Most customers prefer chip-enabled cards due to higher security and lower error rates.
+- System error rates differ across card brands.
+
+### Customers Analysis
 
 <img width="1222" height="706" alt="image" src="https://github.com/user-attachments/assets/276508dc-be06-4cf3-9cc8-e1d281b2aab7" />
 
 
-## IV. Insight 
-
-1. Transaction Activity
-
-Total transaction value increased ~54% YoY, mainly driven by higher transaction frequency rather than higher spending per user.
-
-Peak transaction times occur during 9:00–14:00 and 19:00–22:00, reflecting retail and evening online shopping patterns.
-
-Chip/contactless payments show the lowest error rates, indicating more reliable payment channels.
-
-2. Customer Segmentation
-
-Customers aged 35–55 generate the most stable and highest spending.
-
-Younger customers (<25) have high credit usage but lower income, leading to higher credit risk.
-
-Middle-income group ($30k–$60k) shows the highest bad debt ratio, indicating potential over-leveraging.
-
-3. Card Usage Behavior
-
-Transactions are mainly processed through Visa and Mastercard, suggesting a mass-market customer base.
-
-Many customers hold multiple cards but show low usage, meaning the bank is not their primary provider.
-
-Card issuance exceeds actual usage, increasing inactive credit exposure.
-
-4. Merchant / Payment Performance
-
-Spending is concentrated in essential categories such as groceries, drugstores, utilities, and money transfers.
-
-Some merchants generate high transaction volume but low value, reducing profitability due to processing costs.
-
-5. Credit Risk
-
-Debt-to-Income (DTI) and Credit Utilization are the strongest predictors of default.
-
-Customers aged 25–34 have the highest DTI and default risk.
-
-Increasing high-risk transactions and utility payments may signal early financial stress.
-
 ## V. Recommend
-1. Customer Strategy
+### 📌 Transaction Growth
+- Increase transaction frequency through cashback campaigns and digital payment incentives.
+- Improve online transaction infrastructure to reduce rising system error rates.
 
-Prioritize customers aged 35–55 with higher credit limits and cross-selling opportunities.
+### 📌 Customer Segmentation
+- Prioritize customers aged 35–55 as the primary revenue-generating segment.
+- Develop financial education programs for younger customers with high utilization behavior.
 
-Apply stricter limits for younger customers and closely monitor middle-income borrowers with existing debt.
+### 📌 Credit Risk Management
+- Closely monitor customers with high DTI and high credit utilization ratios.
+- Build early-warning systems for abnormal money-transfer and utility-payment activities.
+- Strengthen monitoring for middle-income customers due to elevated bad debt risk.
 
-2. Card Strategy
+###📌 Card Portfolio Optimization
+- Reduce inactive card exposure by reviewing unused credit limits.
+- Increase customer engagement to position Aurora Bank as the primary card provider.
 
-Shift focus from issuing new cards to activating and increasing card usage.
+### 📌 Operational Improvement
+- Optimize system performance during peak transaction hours.
+- Encourage chip/contactless transactions due to lower operational error rates.
 
-Use loyalty and cashback programs to become customers’ primary card provider.
-
-3. Merchant & Payment Strategy
-
-Strengthen partnerships with supermarkets, retail, and e-commerce merchants.
-
-Promote chip/contactless and mobile payments to improve security and efficiency.
-
-Limit incentives for low-value, high-volume merchants to control processing costs.
-
-4. Credit Risk Management
-
-Implement an Early Warning System based on key signals:
-
-DTI > 40%
-
-Credit utilization > 80%
-
-Decreasing spending
-
-Increasing utility or transfer payments
-
-Take early actions such as reducing credit limits, sending payment reminders, and applying soft collection measures.
-
-Goal: Reduce bad debt and improve overall credit quality.
 
 
